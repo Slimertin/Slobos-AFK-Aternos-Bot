@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "2weekPhase-oqCG.aternos.me",
+    "ip": "2weekPhase-oqCG.aternos.me:16493",
     "port": 16493,
     "version": "",
     "try-creative": false
